@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **anything that help me to secure a job.**
 
-- 👨‍💻 Some of my projects are available at [https://karimi65.github.io/portfolio.html](https://karimi65.github.io/portfolio.html)
+- 👨‍💻 Some of my projects are available at [https://karimi65.github.io](https://karimi65.github.io)
 
 - 💬 Ask me about **anything you'd like to know.**
 
