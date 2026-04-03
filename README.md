@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ali Karimi</h1>
 <h3 align="center">A passionate software developer.</h3>
 
-- 🔭 I’m currently working at **Discovery Partners Institute (DPI) as a software developer apprentice.**
+- 🔭 I’m currently **looking for job.**
 
-- 🌱 I’m currently learning **Ruby.**
+- 🌱 I’m currently learning **Copiloot Studio**
 
 - 👯 I’m looking to collaborate on **any interesting projects.**
 
-- 🤝 I’m looking for help with **nothing at the moment.**
+- 🤝 I’m looking for help with **anything that help me to secure a job.**
 
 - 👨‍💻 Some of my projects are available at [https://karimi65.github.io/portfolio.html](https://karimi65.github.io/portfolio.html)
 
